@@ -1,0 +1,25 @@
+IT SUPPORT SIMULATION LAB - SUPPORT LOG
+Technician: [Your Name]
+Date: April 2026
+
+Ticket #1 - Adam
+Device: Company Windows Laptop
+Issue: Internet keeps disconnecting every 10 minutes
+Symptoms: WiFi shows connected but no internet. Started after moving desk.
+Status: Resolved
+Steps Taken:
+- Asked user to restart their device completely
+Resolution: Issue resolved after following troubleshooting steps.
+
+Ticket #2 - James
+Device: Home Windows 11 PC
+Issue: Forgot Windows login password
+Symptoms: Password not accepted after recent update.
+Status: Open
+
+Ticket #3 - Aria
+Device: Work MacBook Air
+Issue: Laptop very slow after new software install
+Symptoms: Apps take forever to open, high CPU usage.
+Status: Open
+
